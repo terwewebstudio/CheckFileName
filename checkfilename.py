@@ -1,6 +1,3 @@
-# uploadfilename.py
-# id 77
-
 import os
 import requests
 
